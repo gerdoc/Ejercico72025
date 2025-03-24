@@ -16,6 +16,7 @@ public class Inicio {
         boolean flag = true;
         int opcion;
         Ejecutable ejecutable;
+        System.out.println( "hola gerdoc 3");
         while( flag ) {
 
             ejecutable = null;
